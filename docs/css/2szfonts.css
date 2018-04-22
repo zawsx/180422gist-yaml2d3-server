@@ -1,0 +1,123 @@
+/* libre-baskerville-regular - latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/libre-baskerville-v5-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Libre Baskerville'), local('LibreBaskerville-Regular'),
+       url('../fonts/libre-baskerville-v5-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/libre-baskerville-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/libre-baskerville-v5-latin-regular.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
+}
+/* libre-baskerville-italic - latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/libre-baskerville-v5-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('Libre Baskerville Italic'), local('LibreBaskerville-Italic'),
+       url('../fonts/libre-baskerville-v5-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/libre-baskerville-v5-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/libre-baskerville-v5-latin-italic.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
+}
+/* libre-baskerville-700 - latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/libre-baskerville-v5-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Libre Baskerville Bold'), local('LibreBaskerville-Bold'),
+       url('../fonts/libre-baskerville-v5-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/libre-baskerville-v5-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/libre-baskerville-v5-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/libre-baskerville-v5-latin-700.svg#LibreBaskerville') format('svg'); /* Legacy iOS */
+}
+/* merriweather-900 - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/merriweather-v19-latin-900.eot'); /* IE9 Compat Modes */
+  src: local('Merriweather Black'), local('Merriweather-Black'),
+       url('../fonts/merriweather-v19-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/merriweather-v19-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/merriweather-v19-latin-900.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/merriweather-v19-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/merriweather-v19-latin-900.svg#Merriweather') format('svg'); /* Legacy iOS */
+}
+/* merriweather-900italic - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  src: url('../fonts/merriweather-v19-latin-900italic.eot'); /* IE9 Compat Modes */
+  src: local('Merriweather Black Italic'), local('Merriweather-BlackItalic'),
+       url('../fonts/merriweather-v19-latin-900italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/merriweather-v19-latin-900italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/merriweather-v19-latin-900italic.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/merriweather-v19-latin-900italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/merriweather-v19-latin-900italic.svg#Merriweather') format('svg'); /* Legacy iOS */
+}
+/* === Merriweather - 300 */
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 300;
+	src: url("./font/Merriweather-Light.eot");
+	src: local("Merriweather Light"),
+		local("Merriweather-Light"),
+		url("./font/Merriweather-Light.eot") format("embedded-opentype"),
+		url("./font/Merriweather-Light.woff2") format("woff2"),
+		url("./font/Merriweather-Light.woff") format("woff"),
+		url("./font/Merriweather-Light.ttf") format("truetype"),
+		url("./font/Merriweather-Light.svg") format("svg");
+}
+/* === Merriweather - regular */
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 400;
+	src: url("./font/Merriweather-Regular.eot");
+	src: local("Merriweather Regular"),
+		local("Merriweather-Regular"),
+		url("./font/Merriweather-Regular.eot") format("embedded-opentype"),
+		url("./font/Merriweather-Regular.woff2") format("woff2"),
+		url("./font/Merriweather-Regular.woff") format("woff"),
+		url("./font/Merriweather-Regular.ttf") format("truetype"),
+		url("./font/Merriweather-Regular.svg") format("svg");
+}
+
+/* === Merriweather - 700 */
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 700;
+	src: url("./font/Merriweather-Bold.eot");
+	src: local("Merriweather Bold"),
+		local("Merriweather-Bold"),
+		url("./font/Merriweather-Bold.eot") format("embedded-opentype"),
+		url("./font/Merriweather-Bold.woff2") format("woff2"),
+		url("./font/Merriweather-Bold.woff") format("woff"),
+		url("./font/Merriweather-Bold.ttf") format("truetype"),
+		url("./font/Merriweather-Bold.svg") format("svg");
+}
+
+/* === Merriweather - 900 */
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 900;
+	src: url("./font/Merriweather-Black.eot");
+	src: local("Merriweather Black"),
+		local("Merriweather-Black"),
+		url("./font/Merriweather-Black.eot") format("embedded-opentype"),
+		url("./font/Merriweather-Black.woff2") format("woff2"),
+		url("./font/Merriweather-Black.woff") format("woff"),
+		url("./font/Merriweather-Black.ttf") format("truetype"),
+		url("./font/Merriweather-Black.svg") format("svg");
+}

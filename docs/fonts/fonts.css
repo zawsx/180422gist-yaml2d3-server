@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Libre_Baskerville-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Libre_Baskerville-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 300;
+	src: url(Merriweather-normal-300.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 400;
+	src: url(Merriweather-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 700;
+	src: url(Merriweather-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 900;
+	src: url(Merriweather-normal-900.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
